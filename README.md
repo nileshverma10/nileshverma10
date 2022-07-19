@@ -1,16 +1,9 @@
-### Hi there 👋I'm Nilesh Verma
-
-<!--
-**nileshverma10/nileshverma10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... Full Stack Web Developer
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+### Hi 👋I'm Nilesh Verma
+- 🌱 I’m currently learning -Full Stack Web Developer
 - 📫 How to reach me: ... nileshverma610@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+**nileshverma10/nileshverma10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
+
+
+
 -->
