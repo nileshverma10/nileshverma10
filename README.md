@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-nileshverma10.vercel.app)
+- 👨‍💻 All of my projects are available at [Portfolio](portfolio-nileshverma10.vercel.app)
 
 - 💬 Ask me about **JAVASCRIPT | HTML | CSS | REACT | REDUX**
 
