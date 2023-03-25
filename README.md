@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nileshverma610@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XsYVhYsxf-zM02o8fuFPZGG0owR3zugf/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1B1AnMvWAR3K9P_YOIjCxpRVCXjkh1XJO/view?usp=sharing)
 <h3 align="left">
   <img
     src="https://emoji.slack-edge.com/T02ENN9T1FE/typingcat/694c7095d89e65d7.gif"
