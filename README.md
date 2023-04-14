@@ -25,7 +25,7 @@
 <a href="https://twitter.com/@nileshverma__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nileshverma__" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nilesh-verma-55b1a3236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nilesh-verma-55b1a3236/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/s/priceless-chebyshev-hozsc3?file=/src/component/profile.jsx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/s/priceless-chebyshev-hozsc3?file=/src/component/profile.jsx" height="30" width="40" /></a>
-<a href="https://instagram.com/_nileshverma__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nileshverma__" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/_nileshverma__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nileshverma__" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left"> 🚀Languages and Tools:</h3>
